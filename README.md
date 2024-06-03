@@ -1,12 +1,12 @@
 Alumnos:
-Mónica Velásquez
+Mónica Velásquez; y
 Enrique Rodríguez
 
 Información:
 Este repositorio contiene el análisis de datos de un conjunto de datos de marketing bancario, incluyendo el análisis exploratorio, imputación de variables con datos faltantes, codificación de variables categóricas, transformación de variables numéricas, detección y tratamiento de outliers, y el escalado de características utilizando Standard Scaler.
 
 Archivos en el Repositorio:
--bank-additional-full.csv: El dataset Bank Marketing proviene de la Universidad de California, Irvine (UCI) y trata de las campañas de marketing de una institución bancaria.
+1. bank-additional-full.csv: El dataset Bank Marketing proviene de la Universidad de California, Irvine (UCI) y trata de las campañas de marketing de una institución bancaria.
 Variables
 •	age: Edad del cliente.
 •	job: Tipo de trabajo (categoría).
@@ -31,5 +31,5 @@ Variables
 •	nr.employed: Número de empleados - indicador trimestral.
 •	y: si el cliente suscribió un depósito a plazo fijo ('yes' o 'no')
 
-- Proyectofase1_Notebook1.ipynb: Incluye el análisis exploratorio
-- Proyectofase1_Notebook2.ipynb: Incluye ingeniería de características
+2. Proyectofase1_Notebook1.ipynb: Incluye el análisis exploratorio
+3. Proyectofase1_Notebook2.ipynb: Incluye ingeniería de características
